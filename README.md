@@ -2,6 +2,6 @@
 
 This repo contains scripts and plots I made in R for exploratory analysis.
 
-This scripts works on Individual household electric power consumption data set from 
+These scripts work on the Individual household electric power consumption data set from 
 
 the UC Irvine Machine Learning Repository.  
